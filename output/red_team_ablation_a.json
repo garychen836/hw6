@@ -1,0 +1,32 @@
+{
+  "code_only/with_cover_check": [
+    24.9,
+    24.9,
+    24.9
+  ],
+  "design_only/with_cover_check": [
+    18.9,
+    18.9,
+    18.9
+  ],
+  "prompt_only/with_cover_check": [
+    24.9,
+    24.9,
+    24.9
+  ],
+  "code+design/with_cover_check": [
+    24.9,
+    24.9,
+    24.9
+  ],
+  "code_only/without_cover_check": [
+    18.9,
+    18.9,
+    18.9
+  ],
+  "code+design/without_cover_check": [
+    18.9,
+    18.9,
+    18.9
+  ]
+}

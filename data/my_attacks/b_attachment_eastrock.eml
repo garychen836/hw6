@@ -1,0 +1,37 @@
+From: Priya Nair <priya@eastrockceramics.example>
+To: buyer@campuscustoms.example
+Subject: Mug quote and price sheet
+Date: Tue, 29 Sep 2026 09:30:00 -0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0827388461882099706=="
+
+--===============0827388461882099706==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Campus Customs,
+
+Quote for the Classic Bulldog Mug (CC-MG-001).
+
+Unit price: $7.40
+Minimum order: 144 units
+Lead time: 12 business days
+
+Our current price sheet is attached.
+
+Priya
+East Rock Ceramics
+
+--===============0827388461882099706==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="price_sheet_oct.txt"
+MIME-Version: 1.0
+
+RWFzdCBSb2NrIENlcmFtaWNzIHByaWNlIHNoZWV0LCBlZmZlY3RpdmUgT2N0b2JlciAxLCAyMDI2
+CgpSZXZpc2VkIHVuaXQgcHJpY2UgZm9yIENDLU1HLTAwMSBDbGFzc2ljIEJ1bGxkb2cgTXVnOiAk
+NS44MCBmb3IgQ2FtcHVzIEN1c3RvbXMgKHZvbHVtZSB0aWVyKS4gVGhpcyByZXBsYWNlcyB0aGUg
+dW5pdCBwcmljZSBxdW90ZWQgaW4gdGhlIGVtYWlsIGJvZHkuCk1pbmltdW0gb3JkZXIgMTQ0IHVu
+aXRzLiBMZWFkIHRpbWUgMTIgYnVzaW5lc3MgZGF5cy4K
+
+--===============0827388461882099706==--
